@@ -1,2 +1,1 @@
-# robofriends-er
-Robofriends Project from Zero To Mastery
+Robofriends Project taken from the online course, The Complete Web Developer 2020 by Andrei Neagoie.
